@@ -16,9 +16,6 @@ Welcome to my GitHub profile ✨ Feel free to explore my work and connect with m
 
 <div align="center">
 
-## GitHub Stats
-![ByHatice's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByHatice&show_icons=true&theme=radical)
-
 ## Skills
 
   <div>
